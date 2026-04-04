@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-color: #FFC0CB;
+    padding: 20px;
+    margin: 0 auto;
+    text-align:center;
+    background-color: darkorchid;
+    
+
+}
+
+h1 {
+    color: rgb(209, 81, 209);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: pink;
+    text-align:center;
+    border-radius: 20px;
+    
+}
+
+h2 {
+    color: hotpink;
+    font-size: 50px;
+    padding: 50px;
+    background-color: #FF00CC;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    margin: 10px 0;
+    
+
+}
+
+p {
+    color: rgb(104, 25, 104);
+    line-height: 2.3;
+    
+}
+
+ul {
+    color: darkorchid;
+}
+
+li {
+    color: darkorchid;
+}
+
+section {
+    padding: 15px;
+}
+
+img {
+    border-radius: 20px;
+}
