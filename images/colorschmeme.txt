@@ -1,0 +1,13 @@
+Color scheme:
+#FFC300
+#FF8C1A
+#E04B1A
+#B1121A
+#111111
+
+Fonts:
+
+Headings: Pacifico
+
+Body: Poppins
+
