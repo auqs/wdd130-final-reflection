@@ -47,10 +47,11 @@ nav a {
 }
 
 a {
-    color: purple;
+    color: rgb(96, 96, 182);
     text-decoration: none;
    
 }
+
 
 nav {
     display: flex;
@@ -92,3 +93,7 @@ nav img {
     padding: 60px 20px;
 }
 
+.pp {
+    text-align: center;
+
+}
